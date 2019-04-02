@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554243477 source:c:\utn\programación y laboratorio i\vectores_ej_01\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1554243296 c:\utn\programación y laboratorio i\vectores_ej_01\funciones.h
+
+1554244113 source:c:\utn\programación y laboratorio i\vectores_ej_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
